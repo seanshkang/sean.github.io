@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+미재ㄴㅡ있ㄴ 으ㄹ일 자하
 
 ### More Information
 
