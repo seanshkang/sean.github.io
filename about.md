@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-미재ㄴㅡ있ㄴ 으ㄹ일 자하
+something to do and interested
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Who I am.
+That is why I wrote this blog.
+It is represeted a little bit of myself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kangshwan@gmail.com](mailto:email@domain.com)
