@@ -13,5 +13,5 @@ permalink: /about/
 
 ### Contact me
 
-[FACEBOOK](link:https://www.facebook.com/5h4ne?ref=bookmarks)
+[FACEBOOK](https://www.facebook.com/5h4ne?ref=bookmarks "facebook")
 [kangshwan@gmail.com](mailto:email@domain.com)
