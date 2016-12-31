@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-something to do and interested
+배우고 익히고 사용하는데 관심이 많습니다.
 
 ### More Information
 
-Who I am.
-That is why I wrote this blog.
-It is represeted a little bit of myself.
+새로운 것에 대한 도전을 좋아합니다. 
+최근에는 automated reporting과 autonamized investment에 관심을 갖고 있습니다.
 
 ### Contact me
 
+[FACEBOOK](link:https://www.facebook.com/5h4ne?ref=bookmarks)
 [kangshwan@gmail.com](mailto:email@domain.com)
